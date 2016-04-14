@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.nitroja.kbennett.upmodule.Quotes"
+    android:background="#fe5a13">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="120dp"
+        android:id="@+id/scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scrollbarThumbVertical="@drawable/custom_scroll_style"
+        android:layout_marginTop="69dp" >
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="120dp"
+        android:orientation="vertical"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/scrollView">
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 30"
+            android:id="@+id/april30"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 29"
+            android:id="@+id/april29"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 28"
+            android:id="@+id/april28"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 27"
+            android:id="@+id/april27"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 26"
+            android:id="@+id/april26"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 25"
+            android:id="@+id/april25"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 24"
+            android:id="@+id/april24"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 23"
+            android:id="@+id/april23"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 22"
+            android:id="@+id/april22"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 21"
+            android:id="@+id/april21"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 20"
+            android:id="@+id/april20"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 19"
+            android:id="@+id/april19"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 18"
+            android:id="@+id/april18"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 17"
+            android:id="@+id/april17"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 16"
+            android:id="@+id/april16"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 15"
+            android:id="@+id/april15"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 14"
+            android:id="@+id/april14"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 13"
+            android:id="@+id/april13"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:text="April 12"
+            android:id="@+id/april12"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true"
+            android:textColor="#b30afb"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+
+    </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="280dp"
+        android:id="@+id/textView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="28dp"
+        android:textSize="28sp"
+        android:textStyle="bold|italic"
+        android:textColor="#b30afb"
+        android:background="#39ff14"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Kevaughn Bennett"
+        android:id="@+id/textView2"
+        android:textColor="#ffffff"
+        android:textSize="17sp"
+        android:textStyle="bold|italic"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GET MOTIVATED"
+        android:id="@+id/textView3"
+        android:textSize="33sp"
+        android:textStyle="bold"
+        android:textColor="#ffff01"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1dp" />
+
+</RelativeLayout>
